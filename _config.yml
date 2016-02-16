@@ -1,0 +1,28 @@
+name: theadchemists
+favicon: null
+layout_spectrum: 0.011013639625161886
+typography_spectrum: 0.20337487407959998
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.16738070035353303
+  lightness: 0.47554477979429066
+  saturation: 0.5920311764348298
+  rhythmicContrast: 0.21925013768486679
+purpose: []
